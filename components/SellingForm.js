@@ -2508,9 +2508,9 @@ export default function SellingForm({ onBillCreated, userRole, user }) {
           <div class="bill-header" style="margin-bottom: 15px; padding-bottom: 15px; border-bottom: 2px solid #e2e8f0;">
             <div class="header-content" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap; width: 100%;">
               <div style="flex: 1; min-width: 0;">
-                <h1 class="company-name" style="margin: 0; font-size: 28px; font-weight: bold; color: #1a365d; font-family: 'NRT-Bd', sans-serif;">ARAN MED STORE</h1>
-                <p style="font-size:14px;color:#3b4c6b;margin:2px 0 0 0; font-family: 'NRT-Reg', sans-serif;">سلێمانی - بەرامبەر تاوەری تەندروستی سمارت</p>
-                <p style="font-size:13px;color:#3b4c6b;margin:0; font-family: 'NRT-Reg', sans-serif;">+964 772 533 5252 | +964 751 741 2241</p>
+                <h1 class="company-name" style="margin: 0; font-size: 28px; font-weight: bold; color: #1a365d; font-family: 'NRT-Bd', sans-serif;">Dr.Am Pharma</h1>
+                <p style="font-size:14px;color:#3b4c6b;margin:2px 0 0 0; font-family: 'NRT-Reg', sans-serif;"> /p>
+                <p style="font-size:13px;color:#3b4c6b;margin:0; font-family: 'NRT-Reg', sans-serif;"></p>
               </div>
               <div style="flex-shrink: 0; margin-left: 15px;">
                 <img src="/Aranlogo.png" alt="Aran Logo" style="height: 70px; object-fit: contain;" />

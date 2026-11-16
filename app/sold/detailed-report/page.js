@@ -433,7 +433,7 @@ export default function DetailedSalesReport() {
               <div style={{ display: "flex", alignItems: "center", gap: "1rem", flexWrap: "wrap" }}>
                 <img src="/Aranlogo.png" alt="Aran Med Store Logo" style={{ height: "60px", objectFit: "contain" }} />
                 <div>
-                  <h1 style={{ margin: 0, fontSize: "1.5rem", color: "#0f172a", fontWeight: "900", letterSpacing: "0.5px" }}>ARAN MED STORE</h1>
+                  <h1 style={{ margin: 0, fontSize: "1.5rem", color: "#0f172a", fontWeight: "900", letterSpacing: "0.5px" }}>Dr.Am Pharma</h1>
                   <p className="compact-text" style={{ margin: "2px 0", color: "#334155", fontSize: "0.875rem" }}>سلێمانی - بەرامبەر نەخۆشخانەی سمارت</p>
                   <p className="compact-text" style={{ margin: "2px 0", color: "#334155", fontSize: "0.875rem" }}>+964 772 533 5252 || +964 751 741 2241</p>
                 </div>

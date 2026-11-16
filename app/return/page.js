@@ -881,7 +881,7 @@ export default function ReturnHistory() {
       </div>
       <div class="signature-line">
         <div class="signature-dash"></div>
-        <div class="signature-text">Aran Med Store Representative<br>Signature &amp; Stamp</div>
+        <div class="signature-text">Dr.Am Pharma Representative<br>Signature &amp; Stamp</div>
       </div>
     </div>
   </div>

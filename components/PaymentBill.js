@@ -158,7 +158,7 @@ const PaymentBill = ({
                   letterSpacing: '0.3px',
                   fontFamily: "'Inter', sans-serif"
                 }}>
-                  ARAN MED STORE
+                  Dr.Am Pharma
                 </div>
                 <div style={{ fontSize: '9px', opacity: '0.9', fontFamily: "'Inter', sans-serif" }}>
                   Sulaymaniyah • Opposite Smart Health Tower • +964 772 533 5252
@@ -798,7 +798,7 @@ const PaymentBill = ({
             textAlign: 'center'
           }}>
             <div style={{ marginBottom: '5px', fontWeight: '600', fontSize: '9px', color: '#4a5568' }}>
-              ARAN MED STORE • Official Payment Receipt
+             Dr.Am Pharma • Official Payment Receipt
             </div>
             <div>
               System-generated receipt • Valid for accounting • تم إنشاء هذا الإيصال تلقائياً<br/>
